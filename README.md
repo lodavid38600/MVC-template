@@ -35,7 +35,7 @@ Le template MVC comprend les éléments suivants :
 
 - **routes** : Ce répertoire contient les fichiers de configuration des routes de l'application. Vous pouvez définir vos routes HTTP et associer chaque route à un contrôleur spécifique.
 
-- **depedency** : Ce répertoire est destiné aux ressources statiques de l'application, telles que les fichiers CSS, JavaScript, les images, etc.
+- **dependency** : Ce répertoire est destiné aux ressources statiques de l'application, telles que les fichiers CSS, JavaScript, les images, etc.
 
 - **index.js** : Ce fichier est le point d'entrée de l'application. Il configure l'application Express et définit les paramètres globaux.
 
